@@ -1,0 +1,15 @@
+\\main\RDP\43П\АбуровАА\Desktop\MVVM\MVVM\bin\Debug\MVVM.exe.config
+\\main\RDP\43П\АбуровАА\Desktop\MVVM\MVVM\bin\Debug\MVVM.exe
+\\main\RDP\43П\АбуровАА\Desktop\MVVM\MVVM\bin\Debug\MVVM.pdb
+\\main\RDP\43П\АбуровАА\Desktop\MVVM\MVVM\obj\Debug\MVVM.csprojAssemblyReference.cache
+\\main\RDP\43П\АбуровАА\Desktop\MVVM\MVVM\obj\Debug\MainWindow.g.cs
+\\main\RDP\43П\АбуровАА\Desktop\MVVM\MVVM\obj\Debug\App.g.cs
+\\main\RDP\43П\АбуровАА\Desktop\MVVM\MVVM\obj\Debug\MVVM_MarkupCompile.cache
+\\main\RDP\43П\АбуровАА\Desktop\MVVM\MVVM\obj\Debug\MVVM_MarkupCompile.lref
+\\main\RDP\43П\АбуровАА\Desktop\MVVM\MVVM\obj\Debug\MainWindow.baml
+\\main\RDP\43П\АбуровАА\Desktop\MVVM\MVVM\obj\Debug\MVVM.g.resources
+\\main\RDP\43П\АбуровАА\Desktop\MVVM\MVVM\obj\Debug\MVVM.Properties.Resources.resources
+\\main\RDP\43П\АбуровАА\Desktop\MVVM\MVVM\obj\Debug\MVVM.csproj.GenerateResource.cache
+\\main\RDP\43П\АбуровАА\Desktop\MVVM\MVVM\obj\Debug\MVVM.csproj.CoreCompileInputs.cache
+\\main\RDP\43П\АбуровАА\Desktop\MVVM\MVVM\obj\Debug\MVVM.exe
+\\main\RDP\43П\АбуровАА\Desktop\MVVM\MVVM\obj\Debug\MVVM.pdb
